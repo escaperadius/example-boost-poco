@@ -1,6 +1,6 @@
 [requires]
 boost/1.81.0@conan/stable
-Poco/1.12.4@pocoproject/stable
+Poco/1.10.0@pocoproject/stable
 
 [generators]
 cmake
