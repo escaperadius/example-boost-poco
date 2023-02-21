@@ -5,5 +5,4 @@ poco/1.9.4
 cmake
 
 [options]
-Boost:shared=False
 Poco:shared=False
