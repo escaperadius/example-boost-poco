@@ -6,3 +6,4 @@ cmake
 
 [options]
 Poco:shared=False
+Boost:shared=False
